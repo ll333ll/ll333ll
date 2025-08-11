@@ -1,8 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jose+A.+Jimenez+V.;Follow+my+main+account;Sigueme+en+mi+cuenta+principal;¡ESCANEA+EL+QR!;¡Gracias!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Jose+A.+Jimenez+V.;Cuenta+académica+de+GitHub;¡Sígueme+en+mi+perfil+principal!;¡ESCANEA+EL+QR!;¡Gracias!)](https://github.com/TheWomanizer)
 
 <div align="center">
-  
-👉 **[Visita mi perfil personal en GitHub](https://github.com/TheWomanizer)** y **¡sígueme!**
 
-  <img src="https://github.com/ll333ll/ll333ll/blob/main/GH.png?raw=true" alt="QR GitHub" width="100%" />
+<img src="https://raw.githubusercontent.com/ll333ll/ll333ll/refs/heads/main/GitHub.jpg" alt="QR GitHub" width="800px" />
+
+<br><br>
+
+👉 **Este es mi perfil académico. Para ver mis proyectos principales, visita:**  
+🔗 [**github.com/TheWomanizer**](https://github.com/TheWomanizer)
+
 </div>
