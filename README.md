@@ -4,5 +4,5 @@
 
 
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="QR GitHub" width="100%" />
+  <img src="https://github.com/ll333ll/ll333ll/blob/main/GitHub.jpg?raw=true" alt="QR GitHub" width="100%" />
 </div>
