@@ -11,7 +11,7 @@
 <br><br>
 
 👉 **Este es mi perfil académico. Para ver mis proyectos principales, visita:**  
-🔗 [**github.com/TheWomanizer**](https://github.com/iamcroody)
+🔗 [**github.com/iamcroody**](https://github.com/iamcroody)
 
 <br><br>
 
